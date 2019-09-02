@@ -1,8 +1,8 @@
 [role="pagenumrestart"]
 [[ch01_intro_what_is_bitcoin]]
-== Introduction
+== مقدمه
 
-=== What Is Bitcoin?
+=== بیتکوین چیست؟
 
 ((("bitcoin", "defined", id="GSdefine01")))Bitcoin is a collection of concepts and technologies that form the basis of a digital money ecosystem.  Units of currency called bitcoin are used to store and transmit value among participants in the bitcoin network.  Bitcoin users communicate with each other using the bitcoin protocol primarily via the internet, although other transport networks can also be used. The bitcoin protocol stack, available as open source software, can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible.
 
